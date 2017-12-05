@@ -1,0 +1,8 @@
+F:\RsManiProject\BharatAim\BharatAim.PayPal\bin\Debug\netstandard2.0\BharatAim.PayPal.deps.json
+F:\RsManiProject\BharatAim\BharatAim.PayPal\bin\Debug\netstandard2.0\BharatAim.PayPal.dll
+F:\RsManiProject\BharatAim\BharatAim.PayPal\bin\Debug\netstandard2.0\BharatAim.PayPal.pdb
+F:\RsManiProject\BharatAim\BharatAim.PayPal\obj\Debug\netstandard2.0\BharatAim.PayPal.csproj.CoreCompileInputs.cache
+F:\RsManiProject\BharatAim\BharatAim.PayPal\obj\Debug\netstandard2.0\BharatAim.PayPal.AssemblyInfoInputs.cache
+F:\RsManiProject\BharatAim\BharatAim.PayPal\obj\Debug\netstandard2.0\BharatAim.PayPal.AssemblyInfo.cs
+F:\RsManiProject\BharatAim\BharatAim.PayPal\obj\Debug\netstandard2.0\BharatAim.PayPal.dll
+F:\RsManiProject\BharatAim\BharatAim.PayPal\obj\Debug\netstandard2.0\BharatAim.PayPal.pdb

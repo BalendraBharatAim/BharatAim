@@ -1,0 +1,8 @@
+F:\RsManiProject\BharatAim\BharatAim.Core\bin\Debug\netstandard2.0\BharatAim.Core.deps.json
+F:\RsManiProject\BharatAim\BharatAim.Core\bin\Debug\netstandard2.0\BharatAim.Core.dll
+F:\RsManiProject\BharatAim\BharatAim.Core\bin\Debug\netstandard2.0\BharatAim.Core.pdb
+F:\RsManiProject\BharatAim\BharatAim.Core\obj\Debug\netstandard2.0\BharatAim.Core.csproj.CoreCompileInputs.cache
+F:\RsManiProject\BharatAim\BharatAim.Core\obj\Debug\netstandard2.0\BharatAim.Core.AssemblyInfoInputs.cache
+F:\RsManiProject\BharatAim\BharatAim.Core\obj\Debug\netstandard2.0\BharatAim.Core.AssemblyInfo.cs
+F:\RsManiProject\BharatAim\BharatAim.Core\obj\Debug\netstandard2.0\BharatAim.Core.dll
+F:\RsManiProject\BharatAim\BharatAim.Core\obj\Debug\netstandard2.0\BharatAim.Core.pdb
