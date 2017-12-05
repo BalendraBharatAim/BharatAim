@@ -1,0 +1,9 @@
+F:\RsManiProject\BharatAim\BAL\bin\Debug\netstandard2.0\BAL.deps.json
+F:\RsManiProject\BharatAim\BAL\bin\Debug\netstandard2.0\BAL.dll
+F:\RsManiProject\BharatAim\BAL\bin\Debug\netstandard2.0\BAL.pdb
+F:\RsManiProject\BharatAim\BAL\obj\Debug\netstandard2.0\BAL.csprojResolveAssemblyReference.cache
+F:\RsManiProject\BharatAim\BAL\obj\Debug\netstandard2.0\BAL.csproj.CoreCompileInputs.cache
+F:\RsManiProject\BharatAim\BAL\obj\Debug\netstandard2.0\BAL.AssemblyInfoInputs.cache
+F:\RsManiProject\BharatAim\BAL\obj\Debug\netstandard2.0\BAL.AssemblyInfo.cs
+F:\RsManiProject\BharatAim\BAL\obj\Debug\netstandard2.0\BAL.dll
+F:\RsManiProject\BharatAim\BAL\obj\Debug\netstandard2.0\BAL.pdb
