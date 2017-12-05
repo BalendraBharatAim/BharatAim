@@ -5,17 +5,19 @@ VisualStudioVersion = 15.0.27130.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BAL", "BAL\BAL.csproj", "{F279BD53-50D3-4EB9-818E-94F54A2367D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{4319F67E-60C8-4EAB-BE58-E45C5645AE29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "DAL\DAL.csproj", "{4319F67E-60C8-4EAB-BE58-E45C5645AE29}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BharatAim_Web", "BharatAim_Web\BharatAim_Web.csproj", "{3A24A88B-5493-441C-A93E-9C430DA5C28E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{13ED6FE6-3F48-42DE-A16F-442DC91ED13D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BharatAim.PayPal", "BharatAim.PayPal\BharatAim.PayPal.csproj", "{0F1DAEEC-1AAE-424D-9B47-0D11D9740E5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BharatAim.PayPal", "BharatAim.PayPal\BharatAim.PayPal.csproj", "{0F1DAEEC-1AAE-424D-9B47-0D11D9740E5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BharatAim.Service", "BharatAim.Service\BharatAim.Service.csproj", "{A51547AA-D52F-4631-94A3-CA71EBAB17E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BharatAim.Service", "BharatAim.Service\BharatAim.Service.csproj", "{A51547AA-D52F-4631-94A3-CA71EBAB17E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BharatAim.Core", "BharatAim.Core\BharatAim.Core.csproj", "{F3AD1C80-C52C-4E88-A903-D6CBAB8E4224}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BharatAim.Core", "BharatAim.Core\BharatAim.Core.csproj", "{F3AD1C80-C52C-4E88-A903-D6CBAB8E4224}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{30449D0E-E9E4-4A99-A1FE-14059439ADCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -186,11 +186,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "F:\\RsManiProject\\BharatAim\\BharatAim\\DAL\\DAL.csproj",
+      "projectUniqueName": "F:\\RsManiProject\\BharatAim\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "F:\\RsManiProject\\BharatAim\\BharatAim\\DAL\\DAL.csproj",
+      "projectPath": "F:\\RsManiProject\\BharatAim\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\RsMani\\.nuget\\packages\\",
-      "outputPath": "F:\\RsManiProject\\BharatAim\\BharatAim\\DAL\\obj\\",
+      "outputPath": "F:\\RsManiProject\\BharatAim\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -186,11 +186,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "F:\\RsManiProject\\BharatAim\\BharatAim\\BharatAim.Core\\BharatAim.Core.csproj",
+      "projectUniqueName": "F:\\RsManiProject\\BharatAim\\BharatAim.Core\\BharatAim.Core.csproj",
       "projectName": "BharatAim.Core",
-      "projectPath": "F:\\RsManiProject\\BharatAim\\BharatAim\\BharatAim.Core\\BharatAim.Core.csproj",
+      "projectPath": "F:\\RsManiProject\\BharatAim\\BharatAim.Core\\BharatAim.Core.csproj",
       "packagesPath": "C:\\Users\\RsMani\\.nuget\\packages\\",
-      "outputPath": "F:\\RsManiProject\\BharatAim\\BharatAim\\BharatAim.Core\\obj\\",
+      "outputPath": "F:\\RsManiProject\\BharatAim\\BharatAim.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

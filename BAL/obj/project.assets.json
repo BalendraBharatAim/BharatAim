@@ -186,11 +186,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "F:\\RsManiProject\\BharatAim\\BharatAim\\BAL\\BAL.csproj",
+      "projectUniqueName": "F:\\RsManiProject\\BharatAim\\BAL\\BAL.csproj",
       "projectName": "BAL",
-      "projectPath": "F:\\RsManiProject\\BharatAim\\BharatAim\\BAL\\BAL.csproj",
+      "projectPath": "F:\\RsManiProject\\BharatAim\\BAL\\BAL.csproj",
       "packagesPath": "C:\\Users\\RsMani\\.nuget\\packages\\",
-      "outputPath": "F:\\RsManiProject\\BharatAim\\BharatAim\\BAL\\obj\\",
+      "outputPath": "F:\\RsManiProject\\BharatAim\\BAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
