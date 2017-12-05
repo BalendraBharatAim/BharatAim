@@ -1,0 +1,9 @@
+F:\RsManiProject\BharatAim\Blog\bin\Debug\netstandard2.0\Blog.deps.json
+F:\RsManiProject\BharatAim\Blog\bin\Debug\netstandard2.0\Blog.dll
+F:\RsManiProject\BharatAim\Blog\bin\Debug\netstandard2.0\Blog.pdb
+F:\RsManiProject\BharatAim\Blog\obj\Debug\netstandard2.0\Blog.csprojResolveAssemblyReference.cache
+F:\RsManiProject\BharatAim\Blog\obj\Debug\netstandard2.0\Blog.csproj.CoreCompileInputs.cache
+F:\RsManiProject\BharatAim\Blog\obj\Debug\netstandard2.0\Blog.AssemblyInfoInputs.cache
+F:\RsManiProject\BharatAim\Blog\obj\Debug\netstandard2.0\Blog.AssemblyInfo.cs
+F:\RsManiProject\BharatAim\Blog\obj\Debug\netstandard2.0\Blog.dll
+F:\RsManiProject\BharatAim\Blog\obj\Debug\netstandard2.0\Blog.pdb

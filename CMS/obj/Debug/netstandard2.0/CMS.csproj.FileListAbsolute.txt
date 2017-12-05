@@ -1,0 +1,9 @@
+F:\RsManiProject\BharatAim\CMS\bin\Debug\netstandard2.0\CMS.deps.json
+F:\RsManiProject\BharatAim\CMS\bin\Debug\netstandard2.0\CMS.dll
+F:\RsManiProject\BharatAim\CMS\bin\Debug\netstandard2.0\CMS.pdb
+F:\RsManiProject\BharatAim\CMS\obj\Debug\netstandard2.0\CMS.csprojResolveAssemblyReference.cache
+F:\RsManiProject\BharatAim\CMS\obj\Debug\netstandard2.0\CMS.csproj.CoreCompileInputs.cache
+F:\RsManiProject\BharatAim\CMS\obj\Debug\netstandard2.0\CMS.AssemblyInfoInputs.cache
+F:\RsManiProject\BharatAim\CMS\obj\Debug\netstandard2.0\CMS.AssemblyInfo.cs
+F:\RsManiProject\BharatAim\CMS\obj\Debug\netstandard2.0\CMS.dll
+F:\RsManiProject\BharatAim\CMS\obj\Debug\netstandard2.0\CMS.pdb
