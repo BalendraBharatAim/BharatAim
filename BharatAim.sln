@@ -21,13 +21,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebTools", "WebTools", "{30
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BharatAim.Admin_Web", "BharatAim.Admin_Web\BharatAim.Admin_Web.csproj", "{1FDEF01A-A15A-4A46-868C-72CC65EB9BAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS", "CMS\CMS.csproj", "{CD984521-420F-4F35-B59B-CCF9A230D5E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CMS", "CMS\CMS.csproj", "{CD984521-420F-4F35-B59B-CCF9A230D5E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog", "Blog\Blog.csproj", "{F13805A9-EDA9-490D-93F1-CE973E9936A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blog", "Blog\Blog.csproj", "{F13805A9-EDA9-490D-93F1-CE973E9936A3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cms_WebClient", "Cms_WebClient\Cms_WebClient.csproj", "{CDA8BFEC-D564-43F8-8126-3770C4D6C70C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog_Web", "Blog_Web\Blog_Web.csproj", "{C684B38E-C5CF-4D82-B274-0AFFDF3AC66A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebPortal", "WebPortal", "{89FB42D1-CB6B-4492-B3FF-B459C6D5016B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
